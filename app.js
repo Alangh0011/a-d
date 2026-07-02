@@ -6,20 +6,18 @@
                    Ahora está "Luna (MTV Unplugged)" de Zoé.
    ========================================================= */
 const PALABRAS = [
-  "Mi luna", "Mi mundo", "Mi universo", "Frijolito", "Contigo",
+  "Mi luna", "Mi mundo", "Mi universo", "Frijolito", "Mi preciosa",
   "Para siempre", "Tú y yo", "Vía Láctea", "Soñé", "Nuestra canción",
-  "Arrullo de estrellas", "Azul", "Constelación", "Órbita", "Gravedad",
-  "Corazón atómico", "Infinito", "Eclipse", "Satélite", "Cosmos",
-  "Nebulosa", "Estrellas", "Marea", "Cráteres", "Galaxia",
-  "Ciudades invisibles", "Love", "Siempre", "Mi todo", "Aurora",
-  "Latido", "Universo", "A la luna contigo", "Nosotros", "Sueño",
-  "Cielo", "Verte", "Mi vida"
+  "Mi Arrullo de estrellas", "Ves", "Mi dios plan", "Gruñón", "Tu que pedirás",
+  "Corazón atómico", "Pedire al sol que te alumbre cuando no este yo", "Vámonos a marte", "Mi felicidad", "Mi momento favorito", "Mi amor", "Mi vida", "Mi todo", "Mi cielo",
+  "Danna <3", "Te quiero mucho", "Jamassss", "", "Me gustas mucho", "Si supieras",
+  "Quien pudiera?", "Mi chachachá jajaj", "Fuentes de ortiz", "Tu sonrisa <3", "Tu forma de sonreir", "La niña más linda del mundo", "Yo puedo cuidarte", "Tu <3", "Tus chongos <3", "Tu pelo de lado <3", "Tu mirada", "Mi princesa", "No puedo dejarte de pensar", "Eres vida", "Tus besitos <3", "Mi parte fav", "Mi maicito", "Mi puchurrumin", "Toda bonita", "Toda linda", "La más inteligente"
 ];
 const FOTO_URL = "foto.jpg";      // sube tu foto con este nombre (o usa el botón "Elegir foto")
 const VIDEO_ID = "6W4L2O-JQ-w";   // Zoé - Luna (MTV Unplugged)
 
 // Títulos de Zoé -> brillan en dorado, como guiño a la banda
-const TITULOS_ZOE = new Set(["Luna","Vía Láctea","Soñé","Arrullo de estrellas","Azul","Corazón atómico","Ciudades invisibles","Love"]);
+const TITULOS_ZOE = new Set(["Luna","Vía Láctea","Soñé","Arrullo de estrellas","Corazón atómico","Love"]);
 const COLORES = ["#d9e4ff", "#e9d4ff", "#ffd4ec", "#c9f0ff", "#c7bcff", "#bcd0ff"];
 const DORADO = "#ffe6b3";
 

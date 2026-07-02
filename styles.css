@@ -12,6 +12,7 @@ canvas{ display:block; touch-action:none; }
 }
 #intro.fuera{ opacity:0; pointer-events:none; }
 #intro .pre{ font-size:14px; letter-spacing:6px; text-transform:uppercase; opacity:.65; }
+#intro .pre-1{ font-size:9px; letter-spacing:6px; text-transform:uppercase; opacity:.65; padding:40px;}
 #intro .big{ font-size:40px; font-style:italic; margin:12px 0 22px; text-shadow:0 0 40px rgba(190,170,255,.65); }
 #intro .tap{ font-size:13px; letter-spacing:2px; opacity:.6; animation:pulso 2.4s ease-in-out infinite; }
 @keyframes pulso{ 0%,100%{opacity:.3} 50%{opacity:.85} }
